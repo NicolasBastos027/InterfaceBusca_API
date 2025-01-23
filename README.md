@@ -102,5 +102,4 @@ npm run dev
 
 ![Resposta do console](https://github.com/NicolasBastos027/InterfaceBusca_API/blob/main/empresa%20encontrada.png)
 
-## Licença
 
