@@ -87,3 +87,20 @@ Inicie o servidor de desenvolvimento com:
 ```bash
 npm run dev
 ```
+
+## Screenshots
+
+### Interface WEB
+
+![Interface WEB](https://github.com/NicolasBastos027/InterfaceBusca_API/blob/main/abertta.png)
+
+### Resposta do Servidor
+
+![Código de respota do servidor](https://github.com/NicolasBastos027/InterfaceBusca_API/blob/main/resposta%20servidor.png)
+
+### Resposta do Console
+
+![Resposta do console](https://github.com/NicolasBastos027/InterfaceBusca_API/blob/main/empresa%20encontrada.png)
+
+## Licença
+
